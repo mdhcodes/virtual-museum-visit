@@ -12,5 +12,5 @@ This project will utilize Python, Django, and JavaScript along with other techno
 
 The resources for this website will be gathered from the Smithsonian Open Access Project.  
 [Smithsonian Open Access Link]https://www.si.edu/openaccess  
-[Click here to sign up for your API Key]https://api.data.gov/signup/  
+[Click here to sign up for an API Key]https://api.data.gov/signup/  
 [Click here to view Museum Query Parameter Examples]https://www.postman.com/opamcurators/workspace/open-access-museums/request/1501710-f087ad7e-88db-4eab-b980-fdc09eba6ba4  
