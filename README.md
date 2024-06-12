@@ -8,9 +8,13 @@ Help make this virtual museum visit a **one-of-a-kind** learning experience for 
 
 Together, let’s bring art to anyone anywhere anytime.  
 
-This project will utilize Python, Django, and JavaScript along with other technologies as needed to create a virtual walk through a Smithsonian Museum art exhibit.
+
+This project will utilize Python, Django, and JavaScript along with other technologies as needed to create a virtual Smithsonian Museum art exhibit.
 
 The resources for this website will be gathered from the Smithsonian Open Access Project.  
+
 [Smithsonian Open Access Link]https://www.si.edu/openaccess  
+
 [Click here to sign up for an API Key]https://api.data.gov/signup/  
+
 [Click here to view Museum Query Parameter Examples]https://www.postman.com/opamcurators/workspace/open-access-museums/request/1501710-f087ad7e-88db-4eab-b980-fdc09eba6ba4  
